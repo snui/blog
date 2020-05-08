@@ -6,4 +6,4 @@
 ### 总目录  
 + [第一章 拾光捡影](https://github.com/snui/blog/blob/master/jijiao/zw/0001.md)  
 ### 链至：  
-[blog](https://github.com/snui/blog)  
+* [blog](https://github.com/snui/blog)  
