@@ -19,4 +19,4 @@
 
 ------
 
-![fu](../images/fu.jpg)
+![fu](images/fu.jpg)
