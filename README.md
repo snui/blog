@@ -19,4 +19,4 @@
 
 ------
 
-![fu](https://github.com/snui/blog/blob/master/images/fu.jpg)
+![fu](images/fu.png)
