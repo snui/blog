@@ -19,4 +19,4 @@
 
 ------
 
-![fu](D:\Program Files\Typora\snui\images\fu.jpg)
+![fu](https://github.com/snui/blog/blob/master/images/fu.jpg)
