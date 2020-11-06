@@ -1,4 +1,4 @@
-#### [我就带你去飞](https://gitub.com/snui/blog/)
+#### [我就带你去飞](https://github.com/snui/blog/)
 
 ###### 喜欢你，喜欢你，我就带你去飞哎噫……哎噫……
 
