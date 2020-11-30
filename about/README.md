@@ -14,7 +14,7 @@
 
 怀有对将来的热切期望，富有情趣并值得深交。
 
-如果你有问题，或者想认识本人，请致电邮：snuii&foxmail.com
+如果你有问题，或者想认识本人，请致电邮：![](https://user-images.githubusercontent.com/7594612/100559253-d0b31500-32ec-11eb-819a-9d67d67e64cb.png)
 
 或者留言于：https://github.com/snui/blog/issues
 
