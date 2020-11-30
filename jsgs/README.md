@@ -22,7 +22,7 @@
 
 什么地方更坚挺、更能持久呢？费了些心思找了几个地方：www.github.com , www.yuque.com , [blog.csdn.net](https://blog.csdn.net/) , www.cnblogs.com , www.blogger.com 等。有的有广告，有的是技术社区，有的还需要科学上网。可是论坚挺、持久，或看起来应该能坚挺、持久，也就这些了。所以将这些东西放在这里吧，国外以github.com和blogger.com为主，国内就语雀等地。
 
-如此，可以安心写事了。
+如此，可以安心写字了。
 
 #### & 2020/11/23：
 
