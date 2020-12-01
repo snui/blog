@@ -41,5 +41,4 @@
 当然，如有新的作品也将在此展示。
 
 《急脚维游录》  
-##### 电子邮件
-![](https://user-images.githubusercontent.com/7594612/100559253-d0b31500-32ec-11eb-819a-9d67d67e64cb.png)
+
