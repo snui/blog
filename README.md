@@ -8,9 +8,9 @@ My blog and notes.
 
 本站有以下两类文档：
 
-- ##### [文字作品](/wzzp/)
+- ## [文字作品](/wzzp/)
 
-- ##### [即时感受](/jsgs/)
+- ## [即时感受](/jsgs/)
 
 ### 关于
 
@@ -26,4 +26,4 @@ My blog and notes.
 
 如果你有问题，请致电邮：snuicn#gmail.com
 
-或者留言于：https://github.com/snui/snui.github.io/issues
+或者留言于：https://github.com/snui/blog/issues
