@@ -1,4 +1,4 @@
-# [snui](/index.html):bird:
+# [snui](https://github.com/snui/blog):bird:
 
 > ##### 明灯错落，不见烟火。这里是My blog and notes.
 >
